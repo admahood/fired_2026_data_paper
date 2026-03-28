@@ -1,1 +1,3 @@
 # fired 2.0 data products description
+
+![](out/param_map.png)
